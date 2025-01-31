@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"b28f86a346e32528","type":"text","text":"Principal ","x":-265,"y":-152,"width":250,"height":60,"color":"2"},
+		{"id":"0875467cb0fcac95","type":"text","text":"Secundaria ","x":-265,"y":-60,"width":250,"height":50,"color":"2"},
+		{"id":"4c2c5c182c93e3ea","type":"text","text":"**Google**","x":-140,"y":-300,"width":216,"height":50,"color":"4"},
+		{"id":"863a43b24a5be8ce","type":"text","text":"Magistv","x":-697,"y":-212,"width":250,"height":60},
+		{"id":"8643004360cec94d","type":"text","text":"Escolares","x":120,"y":-300,"width":220,"height":50,"color":"4"},
+		{"id":"ee0bb08da5186edd","type":"text","text":"Primera Universitaria","x":215,"y":-152,"width":250,"height":60,"color":"#e000a5"},
+		{"id":"f7c1e046169d722d","type":"text","text":"Obsidian","x":-697,"y":-297,"width":250,"height":60},
+		{"id":"5998aa33d8ba7946","type":"text","text":"Office (Microsoft) (Por el almacenamiento ilimitado)","x":540,"y":-110,"width":250,"height":100},
+		{"id":"cd8cedf8c2e07ee6","type":"text","text":"Escolar MINED","x":215,"y":-10,"width":250,"height":50,"color":"2"},
+		{"id":"0c1b8d93ba62fc3a","type":"text","text":"# Uso de Mis [[Cuentas Electrónicas]]","x":-32,"y":-640,"width":243,"height":140,"color":"1"},
+		{"id":"32d1194e4f9499ca","type":"text","text":"Facebook","x":-740,"y":-10,"width":250,"height":60},
+		{"id":"65205d03c109aa82","type":"text","text":"Supercell","x":-740,"y":160,"width":250,"height":60},
+		{"id":"73eefcdbf30fe42d","type":"text","text":"Play Station 4","x":-740,"y":80,"width":250,"height":60},
+		{"id":"6deee4ad3bcd7eb5","type":"text","text":"Google Drive","x":540,"y":15,"width":250,"height":60},
+		{"id":"ad5f6d7ad05a64a4","type":"text","text":"Play Games","x":-740,"y":260,"width":250,"height":60},
+		{"id":"df451d5557eff586","type":"text","text":"Carpetas de Obsidian","x":540,"y":100,"width":250,"height":60},
+		{"id":"8e76f526a29510c2","x":215,"y":190,"width":250,"height":60,"color":"2","type":"text","text":"Expediente UES\n"},
+		{"id":"1f8cbd2d98b1f235","type":"text","text":"Expediente UES \n","x":540,"y":230,"width":250,"height":58,"color":"#e000a5"}
+	],
+	"edges":[
+		{"id":"5bcc184473272609","fromNode":"4c2c5c182c93e3ea","fromSide":"bottom","toNode":"b28f86a346e32528","toSide":"right"},
+		{"id":"a85f3a8e101a7493","fromNode":"4c2c5c182c93e3ea","fromSide":"bottom","toNode":"0875467cb0fcac95","toSide":"right"},
+		{"id":"772760ab4427a6d7","fromNode":"b28f86a346e32528","fromSide":"left","toNode":"863a43b24a5be8ce","toSide":"right"},
+		{"id":"d8504099993cb6a8","fromNode":"0875467cb0fcac95","fromSide":"left","toNode":"32d1194e4f9499ca","toSide":"right"},
+		{"id":"56447fb75938bc50","fromNode":"8643004360cec94d","fromSide":"bottom","toNode":"ee0bb08da5186edd","toSide":"left"},
+		{"id":"e178dcccf0d22721","fromNode":"ee0bb08da5186edd","fromSide":"right","toNode":"1f8cbd2d98b1f235","toSide":"left","color":"#7c0f5f"},
+		{"id":"920ef1fe8e385959","fromNode":"b28f86a346e32528","fromSide":"left","toNode":"f7c1e046169d722d","toSide":"right"},
+		{"id":"1a1d9f1b6da66648","fromNode":"cd8cedf8c2e07ee6","fromSide":"right","toNode":"5998aa33d8ba7946","toSide":"left"},
+		{"id":"ad59ea8fb05b40da","fromNode":"8643004360cec94d","fromSide":"bottom","toNode":"cd8cedf8c2e07ee6","toSide":"left"},
+		{"id":"902609b78eb4ed85","fromNode":"0c1b8d93ba62fc3a","fromSide":"bottom","toNode":"4c2c5c182c93e3ea","toSide":"top","toEnd":"none","color":"1"},
+		{"id":"95287965da0c86d5","fromNode":"0c1b8d93ba62fc3a","fromSide":"bottom","toNode":"8643004360cec94d","toSide":"top","toEnd":"none","color":"1"},
+		{"id":"0bf0c44bd9819487","fromNode":"0875467cb0fcac95","fromSide":"left","toNode":"73eefcdbf30fe42d","toSide":"right"},
+		{"id":"f29c0b0643481723","fromNode":"0875467cb0fcac95","fromSide":"left","toNode":"65205d03c109aa82","toSide":"right"},
+		{"id":"b37b5f4926dfb91a","fromNode":"cd8cedf8c2e07ee6","fromSide":"right","toNode":"6deee4ad3bcd7eb5","toSide":"left"},
+		{"id":"dd1bb5bcabd47a32","fromNode":"0875467cb0fcac95","fromSide":"left","toNode":"ad5f6d7ad05a64a4","toSide":"right"},
+		{"id":"34210c82fd48bc55","fromNode":"cd8cedf8c2e07ee6","fromSide":"right","toNode":"df451d5557eff586","toSide":"left"},
+		{"id":"02e7417f99c96dca","fromNode":"df451d5557eff586","fromSide":"right","toNode":"6deee4ad3bcd7eb5","toSide":"right"},
+		{"id":"1abdf44ee9e38634","fromNode":"f7c1e046169d722d","fromSide":"left","toNode":"df451d5557eff586","toSide":"bottom"},
+		{"id":"9cddb3024ae0350f","fromNode":"8e76f526a29510c2","fromSide":"right","toNode":"1f8cbd2d98b1f235","toSide":"left"}
+	]
+}
